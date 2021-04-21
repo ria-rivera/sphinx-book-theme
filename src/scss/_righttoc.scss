@@ -24,15 +24,15 @@
 
         // TOC link color
         a:hover, li.active > a.active {
-            color: #0071bc;
+            color: #41C17D;
         }
 
         li.active > a.active {
-            border-left: 2px solid #0071bc;
+            border-left: 2px solid #41C17D;
         }
 
         >.nav {
-            border-left: 1px solid #eee;
+            border-left: 1px solid #41C17D;
             .nav {
                 border-left: none;
             }
